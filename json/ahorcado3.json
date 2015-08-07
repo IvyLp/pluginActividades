@@ -1,0 +1,37 @@
+{
+ "Presentacion":
+ {
+  "Titulo":"Actividad Ahorcado",
+  "Descripcion":"Escucha el audio e intenta adivinar la palabra oprimiendo las letras del alfabeto"
+ },
+ "Actividad":
+ [
+   {
+     
+     "Pista":"img/act3/img1.jpg",
+     "Palabra":"TROMPETA"
+   },
+    {
+     
+     "Pista":"img/act3/img2.jpg",
+     "Palabra":"SAXOFON"
+   },
+    {
+     
+     "Pista":"img/act3/img3.jpg",
+     "Palabra":"PIANO"
+   }
+ ],
+ "Retroalimentacion":
+ {
+   "Bien":"Felicitaciones",
+   "Mal":"Estudie!!"
+ },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

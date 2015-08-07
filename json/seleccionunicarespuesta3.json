@@ -1,0 +1,70 @@
+{
+	"Presentacion":{
+		"Titulo":"Work it out! Our future",
+		"Descripcion":"Now, listen to the following people and identify the speaker’s intention. Choose the right option for each situation."
+	},
+	"Enunciado":{
+		"0":"Kelly is",
+		"1":"The speaker is",
+		"2":"The speaker is expressing",
+		"3":"The girl’s father is",
+		"4":"The boy’s mom is"					
+	},
+	"Audios":{
+		"0":"1.mp3",
+		"1":"1.mp3",
+		"2":"3.mp3",
+		"3":"4.mp3",
+		"4":"5.mp3"					
+	},
+	"Descripcion_Audio" : {
+		"0" : "A: Kelly, please, tidy up your room. B: I’m sorry, mom. I don’t have time right now. I’ll do it as soon as I‘m back from university. Love you. Bye!",
+		"1" : "A: Sally, very soon you’ll meet a very important person in your life; this person will have a big impact in your personal life and finances. You need to be very careful.",
+		"2" : "A: Everything is set now! We’re going to get married next 7th April. This is a lovely time to celebrate. This is your invitation. B: Oh, Thank you. Are you excited!",
+		"3" : "A: Dad, I don’t understand these math exercises. I don’t know what to do; I feel so frustrated. B: Come on here! Let me see, I’ll help you with them. A: Oh, really? I’d really appreciate it.",
+		"4" : "Kevin, you haven’t done your homework yet. You’re going to have serious problems at school. Stop playing videogames and get to work now."
+	},
+	"Actividad":[
+	   {
+			"0":"promising.",
+			"1":"offering help.",
+			"2":"predicting."
+		},
+		{
+			"0":"promising.",
+			"1":"offering help.",
+			"2":"predicting."
+		},
+		{
+			"0":"plans.",
+			"1":"predictions.",
+			"2":"promises."
+		},
+		{
+			"0":"promising.",
+			"1":"offering help.",
+			"2":"expressing plans and intentions."
+		},
+		{
+			"0":"planning.",
+			"1":"predicting.",
+			"2":"promising."
+		}
+	],
+	"Respuestas":{
+		"0":"0",
+		"1":"2",
+		"2":"0",
+		"3":"1",
+		"4":"1"		
+	},
+	"Botones":{
+		"inicio":"Begin",
+		"enviar":"Send",
+		"repetir":"Try Again"
+	},
+	"Retroalimentacion":{
+		"Bien":"Good job! You can start working on the topics that follow.",
+		"Mal":"Try again! Please check the conversation one more time."
+	}
+}

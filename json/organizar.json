@@ -1,0 +1,56 @@
+{
+ "Presentacion":
+ {
+  "Titulo":"Actividad Ordenar",
+  "Descripcion":"Ordena correctamente el siguiente texto"
+ },
+ "Actividad":
+ [
+   {
+     
+     "Orden":"1",
+     "Frase":"The aim of this paper is to report the development of the activities held during the Advertisement Festival in San Francisco."
+   },
+    {
+     
+     "Orden":"2",
+     "Frase":"On the first day, we participated in the conference: ‘New Technology in Advertising’."
+   },
+    {
+     
+     "Orden":"3",
+     "Frase":"It was a three-hour talk where new applications and software were presented; we received a general presentation of what can be done with them."
+   },
+   {
+     
+     "Orden":"4",
+     "Frase":"The second day was divided into 2 activities. In the morning, we attended the talk: Innovation and Ethics in Advertising. It was about sexism, racism and consumerism."
+   },
+   {
+     
+     "Orden":"5",
+     "Frase":"Later that day, we attended the Advertising Awards event. We had the opportunity to see some of the most creative TV and internet ads and know the best advertising executives around the world."
+   },
+   {
+      "Orden":"6",
+      "Frase":"Then, we were announced as the winners of the ‘Best New Advertising Agency’."
+   },
+   {
+     "Orden":"7",
+     "Frase":"Finally, we had a short tour around San Francisco. We visited some places and people."
+   }
+   
+ ],
+ "Retroalimentacion":
+ {
+   "Bien":"Felicitaciones",
+   "Mal":"Estudie!!"
+ },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Retry"
+ }
+}

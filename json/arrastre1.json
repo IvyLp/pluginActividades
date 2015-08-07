@@ -1,0 +1,94 @@
+{
+  "Presentacion":
+  {
+    "Titulo":"Drag and Drop",
+    "Descripcion":"Definitely, the best option for the job is John Brown, but he will have to adapt to the schedules at the office. Help me organize his routine activities in a logical order. Drag the activities to the blank spaces."
+  },
+  "Actividad":
+  [
+    {
+      "Pregunta":"I wake up",
+      "Respuesta":"1"
+    },
+    {
+      "Pregunta":"I take a shower",
+      "Respuesta":"2"
+    },
+    {
+      "Pregunta":"I get dressed",
+      "Respuesta":"3"
+    },
+    {
+      "Pregunta":"I have breakfast",
+      "Respuesta":"4"
+    },
+    {
+      "Pregunta":"I get to work",
+      "Respuesta":"5"
+    },
+    {
+      "Pregunta":"I have lunch",
+      "Respuesta":"6"
+    },
+    {
+      "Pregunta":"I finish work",
+      "Respuesta":"7"
+    },
+    {
+      "Pregunta":"I go back home",
+      "Respuesta":"8"
+    },
+    {
+      "Pregunta":"I have dinner",
+      "Respuesta":"9"
+    },
+    {
+      "Pregunta":"I go to bed",
+      "Respuesta":"10"
+    }
+  ],
+  "Enunciado" :[
+    {
+      "Item":"6:30 am"
+    },
+    {
+      "Item":"6:45 am"
+    },
+    {
+      "Item":"7:00 am"
+    },
+    {
+      "Item":"7:15 am"
+    },
+    {
+      "Item":"8:00 am"
+    },
+    {
+      "Item":"1:00 pm"
+    },
+    {
+      "Item":"5:00 pm"
+    },
+    {
+      "Item":"5:30 pm"
+    },
+    {
+      "Item":"9:00 pm"
+    },
+    {
+      "Item":"10:30 pm"
+    }
+  ],    
+  "Retroalimentacion":
+  {
+    "Bien":"Excellent! You can now identify the main actions of John’s routine. Is yours similar?",
+    "Mal":"Try again! Think about your own routine. It must not be too different from yours."
+  },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

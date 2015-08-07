@@ -1,0 +1,74 @@
+{
+  "Presentacion":
+  {
+    "Titulo":"Drag and Drop",
+    "Descripcion":"Definitely, the best option for the job is John Brown, but he will have to adapt to the schedules at the office. Help me organize his routine activities in a logical order. Drag the activities to the blank spaces."
+  },
+  "Actividad":
+  [
+    {
+      "Pregunta":"Dog",
+      "Respuesta":"1"
+    },
+    {
+      "Pregunta":"Cat",
+      "Respuesta":"2"
+    },
+    {
+      "Pregunta":"Pig",
+      "Respuesta":"3"
+    },
+    {
+      "Pregunta":"Donkey",
+      "Respuesta":"4"
+    },
+    {
+      "Pregunta":"Rabbit",
+      "Respuesta":"5"
+    },
+    {
+      "Pregunta":"sheep",
+      "Respuesta":"6"
+    },
+    {
+      "Pregunta":"gallina",
+      "Respuesta":"7"
+    }
+  ],
+  "Enunciado" :[
+    {
+      "Item":"img/act6/perro.png"
+    },
+    {
+      "Item":"img/act6/gato.png"
+    },
+    {
+      "Item":"img/act6/cerdo.png"
+    },
+    {
+      "Item":"img/act6/burro.png"
+    },
+    {
+      "Item":"img/act6/conejo.png"
+    },
+    {
+      "Item":"img/act6/oveja.png"
+    },
+    {
+      "Item":"img/act6/gallina.png"
+    }
+
+  ],    
+  "Retroalimentacion":
+  {
+    "Bien":"Excellent! You can now identify the main actions of John’s routine. Is yours similar?",
+    "Mal":"Try again! Think about your own routine. It must not be too different from yours."
+  },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

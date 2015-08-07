@@ -1,0 +1,54 @@
+{
+  "Presentacion": 
+  {
+    "Titulo":"Lista Desplegable",
+    "Descripcion":"Se elabora con el fin de presentar una actividad que permita al estudiante completar una frase o sentencia basado en una serie de opciones presentadas mediante una lista desplegable; también puede ser utilizada como enlace a una opción de respuestas"
+  },
+  "Actividad":
+  [
+    {
+      "Frase":"En la siguiente frase se debe reemplazar esta palabra y aca otra",
+      "Reemplazan": 
+      [
+        {
+          "Cambia": "esta",
+          "Opciones": ["uno", "dos", "tres"],
+          "Correcta": "dos"
+        },
+        {
+          "Cambia": "aca",
+          "Opciones": ["cuatro", "dos", "tres"],
+          "Correcta": "tres"
+        }
+      ]
+    },
+    {
+      "Frase":"En la siguiente otra frase se debe reemplazar esta que se encuentra antes y despues otra",
+      "Reemplazan": 
+      [
+        {
+          "Cambia": "esta",
+          "Opciones": ["perro", "pollo", "vaca"],
+          "Correcta": "vaca"
+        },
+        {
+          "Cambia": "despues",
+          "Opciones": ["piedra", "arena", "tierra"],
+          "Correcta": "piedra"
+        }
+      ]
+    }
+  ],
+  "Retroalimentacion":
+  {
+    "Bien":"excelente",
+    "Mal":"lo siento"
+  },
+  "Botones":
+  {
+    "limpiar":"Clear",
+      "enviar":"Send",
+      "siguiente":"Next",
+      "repetir":"Retry"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Presentacion": 
+  {
+    "Titulo":"Lista Desplegable",
+    "Descripcion":"Se elabora con el fin de presentar una actividad que permita al estudiante completar una frase o sentencia basado en una serie de opciones presentadas mediante una lista desplegable; también puede ser utilizada como enlace a una opción de respuestas"
+  },
+  "Actividad":
+  [
+    {
+      "Frase":"prueba 1 CJ1 palabra y CJ2 prueba2",
+      "Reemplazan": 
+      [
+        {
+          "Cambia": "CJ1",
+          "Correcta": "ivan"
+        },
+        {
+          "Cambia": "CJ2",
+          "Correcta": "orlando"
+        }
+      ]
+    },
+    {
+      "Frase":"prueba3 CJ3  y prueba CJ4 otra",
+      "Reemplazan": 
+      [
+        {
+          "Cambia": "CJ3",
+          "Correcta": "lamprea"
+        },
+        {
+          "Cambia": "CJ4",
+          "Correcta": "guerrero"
+        }
+      ]
+    }
+  ],
+  "Retroalimentacion":
+  {
+    "Bien":"excelente",
+    "Mal":"lo siento"
+  },
+  "Botones":
+  {
+    "limpiar":"Clear",
+      "enviar":"Send",
+      "siguiente":"Next",
+      "repetir":"Retry"
+  }
+}

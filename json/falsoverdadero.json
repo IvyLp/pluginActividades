@@ -1,0 +1,37 @@
+{
+ "Presentacion":
+ {
+   "Titulo":"Falso o Verdadero",
+   "Descripcion":"De las preguntas mostradas a continuación usted podra elegir si son falsas o verdaderas"
+ },
+ "Actividad":[
+      {
+        "Pregunta":"¿pregunta 1?",
+        "Respuesta": false
+      },
+      {
+        "Pregunta":"¿pregunta 2?",
+        "Respuesta":true
+      },
+      {
+        "Pregunta":"¿pregunta 3?",
+        "Respuesta":true
+      },
+      {
+        "Pregunta":"¿pregunta 4?",
+        "Respuesta":true
+      }
+   ],
+   "Retroalimentacion":
+   {
+      "Bien":":)",
+      "Mal":":("
+   },
+   "Botones":
+   {
+      "limpiar":"Clear",
+      "enviar":"Send",
+      "siguiente":"Next",
+      "repetir":"Re"
+   }
+}

@@ -1,0 +1,96 @@
+{
+  "Presentacion":
+  {
+    "Titulo":"Drag and Drop",
+    "Descripcion":"Definitely, the best option for the job is John Brown, but he will have to adapt to the schedules at the office. Help me organize his routine activities in a logical order. Drag the activities to the blank spaces."
+  },
+  "Actividad":
+  [
+   
+    {
+      "Pregunta":"to abide",
+      "Respuesta":"1"
+    },
+    {
+      "Pregunta":"abode",
+      "Respuesta":"2"
+    },
+    {
+      "Pregunta":"abode past",
+      "Respuesta":"3"
+    },
+    {
+      "Pregunta":"to arise",
+      "Respuesta":"4"
+    },
+    {
+      "Pregunta":"arose",
+      "Respuesta":"5"
+    },
+    {
+      "Pregunta":"arisen",
+      "Respuesta":"6"
+    },
+    {
+      "Pregunta":"to awake",
+      "Respuesta":"7"
+    },
+    {
+      "Pregunta":"awoke",
+      "Respuesta":"8"
+    },
+    {
+      "Pregunta":"awoken",
+      "Respuesta":"9"
+    },
+    {
+      "Pregunta":"to bear",
+      "Respuesta":"10"
+    }
+
+  ],
+  "Enunciado" :[
+    {
+      "Item":"audio/act10/01.mp3"
+    },
+    {
+      "Item":"audio/act10/02.mp3"
+    },
+    {
+      "Item":"audio/act10/03.mp3"
+    },
+    {
+      "Item":"audio/act10/04.mp3"
+    },
+    {
+      "Item":"audio/act10/05.mp3"
+    },
+    {
+      "Item":"audio/act10/06.mp3"
+    },
+    {
+      "Item":"audio/act10/07.mp3"
+    },
+    {
+      "Item":"audio/act10/08.mp3"
+    },
+    {
+      "Item":"audio/act10/09.mp3"
+    },
+    {
+      "Item":"audio/act10/10.mp3"
+    }
+  ],    
+  "Retroalimentacion":
+  {
+    "Bien":"Excellent! You can now identify the main actions of John’s routine. Is yours similar?",
+    "Mal":"Try again! Think about your own routine. It must not be too different from yours."
+  },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

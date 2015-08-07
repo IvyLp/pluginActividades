@@ -1,0 +1,68 @@
+{
+ "Presentacion":
+ {
+  "Titulo":"Actividad Ordenar",
+  "Descripcion":"Ordena correctamente el siguiente texto"
+ },
+ "Actividad":
+ [
+   {
+     
+     "Orden":"1",
+     "Frase":"Item1"
+   },
+    {
+     
+     "Orden":"2",
+     "Frase":"Item2"
+   },
+    {
+     
+     "Orden":"3",
+     "Frase":"Item3"
+   },
+   {
+     
+     "Orden":"4",
+     "Frase":"Item4"
+   },
+   {
+     
+     "Orden":"5",
+     "Frase":"Item5"
+   },
+   {
+      "Orden":"6",
+      "Frase":"Item6"
+   },
+   {
+     "Orden":"7",
+     "Frase":"Item7"
+   },
+   {
+     "Orden":"8",
+     "Frase":"Item8"
+   },
+   {
+     "Orden":"9",
+     "Frase":"Item9"
+   },
+   {
+     "Orden":"10",
+     "Frase":"Item10"
+   }
+   
+ ],
+ "Retroalimentacion":
+ {
+   "Bien":"Felicitaciones",
+   "Mal":"Estudie!!"
+ },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Retry"
+ }
+}

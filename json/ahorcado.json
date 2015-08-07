@@ -1,0 +1,35 @@
+{
+ "Presentacion":
+ {
+  "Titulo":"Actividad Ahorcado",
+  "Descripcion":"Escucha el audio e intenta adivinar la palabra oprimiendo las letras del alfabeto"
+ },
+ "Actividad":
+ [
+   {
+
+     "Pista":"audio/1.mp3",
+     "Palabra":"CABALLO"
+   },
+   {
+     "Pista":"audio/2.mp3",
+     "Palabra":"LEON"
+   },
+   {
+     "Pista":"audio/3.mp3",
+     "Palabra":"MARMOTA"
+   }
+ ],
+ "Retroalimentacion":
+ {
+   "Bien":"Felicitaciones",
+   "Mal":"Estudie!!"
+ },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

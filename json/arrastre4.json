@@ -1,0 +1,46 @@
+{
+  "Presentacion":
+  {
+    "Titulo":"Drag and Drop",
+    "Descripcion":"Definitely, the best option for the job is John Brown, but he will have to adapt to the schedules at the office. Help me organize his routine activities in a logical order. Drag the activities to the blank spaces."
+  },
+  "Actividad":
+  [
+   
+    {
+      "Pregunta":"img/act6/gato.png",
+      "Respuesta":"1"
+    },
+    {
+      "Pregunta":"img/act6/cerdo.png",
+      "Respuesta":"2"
+    },
+    {
+      "Pregunta":"img/act6/gallo.png",
+      "Respuesta":"3"
+    }
+  ],
+  "Enunciado" :[
+    {
+      "Item":"audio/4.mp3"
+    },
+    {
+      "Item":"audio/3.mp3"
+    },
+    {
+      "Item":"audio/5.mp3"
+    }
+  ],    
+  "Retroalimentacion":
+  {
+    "Bien":"Excellent! You can now identify the main actions of John’s routine. Is yours similar?",
+    "Mal":"Try again! Think about your own routine. It must not be too different from yours."
+  },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

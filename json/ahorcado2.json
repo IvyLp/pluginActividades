@@ -1,0 +1,30 @@
+{
+ "Presentacion":
+ {
+  "Titulo":"Actividad Ahorcado",
+  "Descripcion":"Escucha el audio e intenta adivinar la palabra oprimiendo las letras del alfabeto"
+ },
+ "Actividad":
+ [
+   {
+     "Pista":"Vehiculo Motorizado de Cuatro Ruedas",
+     "Palabra":"CARRO"
+   },
+    {
+     "Pista":"Capital de Alemania",
+     "Palabra":"BERLIN"
+   }
+ ],
+ "Retroalimentacion":
+ {
+   "Bien":"Felicitaciones",
+   "Mal":"Estudie!!"
+ },
+ "Botones":
+ {
+    "limpiar":"Clear",
+    "enviar":"Send",
+    "siguiente":"Next",
+    "repetir":"Re"
+ }
+}

@@ -1,0 +1,73 @@
+{
+	"Presentacion":{
+		"Titulo":"Selección multiple (múltiple respuesta)",
+		"Descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada id metus a finibus. Nulla facilisi. Integer non tellus vel orci tincidunt posuere a id elit. Curabitur tortor nibh, tempor at massa non, consectetur ultricies leo. Donec et est in justo placerat gravida. Vestibulum faucibus rhoncus leo, a feugiat nibh accumsan nec."
+		
+				
+		},
+		
+		
+		"Enunciado":{
+			"0":"pregunta1",
+			"1":"pregunta2",
+			"2":"pregunta3"			
+			},
+			
+			"Actividad":[
+				   {
+					 "0":"opcion 1 para 1",
+					 "1":"opcion 2 para 1",
+					 "2":"opcion 3 para 1",
+					 "3":"opcion 4 para 1",
+					 "4":"opcion 5 para 1"
+				   },
+				  {
+					"0":"opcion 1 para 2",
+					 "1":"opcion 2 para 2",
+					 "2":"opcion 3 para 2",
+					 "3":"opcion 4 para 2",
+					 "4":"opcion 5 para 2"
+					},
+			      {
+					"0":"opcion 1 para 3",
+					 "1":"opcion 2 para 3",
+					 "2":"opcion 3 para 3",
+					 "3":"opcion 4 para 3",
+					 "4":"opcion 5 para 3"
+				  }
+			],
+			
+		 "Respuestas":[			 
+				 {
+					"0":"0",
+					"1":"2",
+					"2":"3"				
+				  },
+				 {
+					"0":"0",
+					"1":"2",
+					"2":"3"	 
+				 },
+				 {
+					"0":"1",
+					"1":"2",
+					"2":"3"
+				 }	
+			 
+			 ],
+		 
+		 "Botones":{
+				 "inicio":"Iniciar",
+				 "enviar":"Enviar",
+				 "repetir":"Retry",
+				 "limpiar":"Limpiar"
+				 
+				 },
+				 
+		  "Retroalimentacion":{
+			  "Bien":"Buen trabajo!",
+			  "Mal":"Sigue intentando"
+			  
+			  }
+	
+}
