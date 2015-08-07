@@ -2,7 +2,7 @@
 
 Es un plugin desarrollado en Jquery, Html5, Css3, Bootstrap con estructuras de Datos en JSON.
 
-Aqui encuentran contempladas las siguientes Actividades:
+Aqui! se encuentran contempladas las siguientes Actividades:
 
 * Ahorcado
 * Concentrese
