@@ -1,6 +1,6 @@
 # PLUGIN ACTIVIDADES BOOTSTRAP
 
-Es un plugin desarrollado en Jquery, Html5, Css3, Bootstrap con estructuras de Datos en archivos JSON.
+Es un plugin desarrollado en Jquery, Html5, Css3, Bootstrap con estructuras de Datos en JSON.
 
 Aqui encuentran contempladas las siguientes Actividades:
 
