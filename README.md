@@ -17,26 +17,28 @@ Configuracion
 
 Html
 ```
-  		<button class="btn btn-danger" type="button" data-toggle="modal" data-target="#act5">Concentrese<span class="glyphicon glyphicon-chevron-right"></span></button>          
-	      <!-- Modal -->
-	    <div class="modal fade" id="act5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-	      <div class="modal-dialog">
-	        <div class="modal-content">
-	          <div class="modal-body">
-	            <div id="Contenedor5">
-	            
-	            </div>
-	          </div>
-	          <div class="modal-footer">
-	        
-	          </div>
-	        </div>
-	      </div>
+<button class="btn btn-danger" type="button" data-toggle="modal" data-target="#act5">
+  Concentrese
+  <span class="glyphicon glyphicon-chevron-right"></span>
+</button>          
+
+<!-- Modal -->
+<div class="modal fade" id="act5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+	  <div class="modal-content">
+	    <div class="modal-body">
+	      <div id="Contenedor5">
+        </div>
 	    </div>
+	    <div class="modal-footer">
+	    </div>
+	  </div>
+	</div>
+</div>
 ```
 Javascript
 
-```
+```javascript
 $("#Contenedor5").concentrese({
 	json:"concentrese.json"
 });
